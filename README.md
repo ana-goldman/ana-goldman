@@ -8,6 +8,6 @@
 
 💼 At the moment I'm actively looking for a new position! Previously, at AMZScout, I worked on an SSG app based on [Astro](https://astro.build/), [React](https://reactjs.org/) (and later [Svelte](https://svelte.dev/)), integrated with [Sanity CMS](https://www.sanity.io/).
 
-🌱 I'm currently exploring [AWS](https://aws.amazon.com/) and performance optimization.
+🌱 I'm currently exploring [AWS](https://aws.amazon.com/), [Docker](https://www.docker.com/) and [MongoDB](https://www.mongodb.com/).
 
 📨 Reach out if you'd like to collab, my email is on my profile!
